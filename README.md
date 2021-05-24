@@ -1,4 +1,4 @@
-Technically, this isn't my first repository.  The other repos I posted.... I really had no idea what I was doing. 
+Technically, this isn't my first repository.  The other repos I posted.... well, I really had no idea what I was doing. 
 Consider this as my first official repository on GitHub.
 
 I enjoy :running: and :books:. 
